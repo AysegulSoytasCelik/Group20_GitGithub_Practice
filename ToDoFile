@@ -1,0 +1,34 @@
+1. Cloning
+1.1- Go to project's first page in GitHub (Our project is "Group20_GitGithub_Practice")
+        -> Put the Link here
+1.2- Find "Code" and click on it
+1.3- Copy the URL of the project, you can click the copy icon just right of the Url.
+1.4- Go to your intelliJ
+1.5- Click on File -> New -> Project from Version Control
+1.6- Paste the URL there and clone it.
+
+2. Go to your Intellij and create a new branch (branch name can be your name like MattReader)
+ from the Local master and check out then work on the your branch,
+3. Create a Feature with your name package under src (FeatureMatt)
+4. Create a *class with your username under src->test->java (not under main, under the test)(TestMatt)
+Do some *Commits as print out what you would like, i.e;
+
+public static void main(String[] args) {
+        System.out.println("Hello my friends");					//Commit
+        System.out.println("Good luck with the new project");	                //Commit
+        System.out.println("Success to everyone");				//Commit
+    }
+5.Push your commits to the remote repo
+6. Go to Github, Compare&Pull request -> create Pull request
+7. Assign a reviewer
+(You can match 2 people then they can be reviewer of each other, every person will assign his/her mate)
+8. Reviewer;
+-> review -> approve -> merge -> delete branch
+(There is a short video how to do it, it is better to see it)
+Generally;
+*These steps are explained in the short videos, don't hesitate to look at them for the correct steps
+9!!!. After Merged all Pull request, in your Intellij Checkout Local Master
+ 	- right click Local Master -> click  Update
+ 	- right click Local Master -> click Merge 'master' into 'Current' branch
+ (To be able to see the new codes added by our colleagues in intellij, everyday before start coding update your custom branch with these steps)
+................................................................
