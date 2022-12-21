@@ -8,5 +8,6 @@ public class TestMutullah {
 
         System.out.println("Hello");
         System.out.println("Wooden Spoon");
+        System.out.println("wood");
     }
 }
