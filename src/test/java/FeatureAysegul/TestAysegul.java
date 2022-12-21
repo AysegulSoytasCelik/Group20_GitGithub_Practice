@@ -11,6 +11,9 @@ public class TestAysegul {
 
         System.out.println("Wooden Spoon");
 
+        System.out.println("It's out first git project");
+
+        System.out.println("Goodbye Java, welcome Selenium ");
 
     }
 
