@@ -7,5 +7,6 @@ public class TestMutullah {
         // first commit
 
         System.out.println("Hello");
+        System.out.println("Wooden Spoon");
     }
 }
