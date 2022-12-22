@@ -5,5 +5,6 @@ public class TestAbdullah {
         //firs commend
         System.out.println("hello word");
         System.out.println("");
+        System.out.println("wooden spoon");
     }
 }
